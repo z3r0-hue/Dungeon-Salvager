@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701316e22ffe9c14c8dbd278b4aee6f1, type: 3}
+  m_Name: Pear
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Pear
+  icon: {fileID: 21300000, guid: 0759dc4a2ffe71144a38f948255c18af, type: 3}
+  description: Restores 1 heart
+  canEat: 1
+  healAmount: 1
+  value: 2
+  weight: 1
+  worldPrefab: {fileID: 3336635047268253738, guid: 5480128eaadeb66459c28f795d3f897a, type: 3}

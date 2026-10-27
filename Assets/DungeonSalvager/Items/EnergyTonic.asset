@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701316e22ffe9c14c8dbd278b4aee6f1, type: 3}
+  m_Name: EnergyTonic
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Energy Tonic
+  icon: {fileID: 21300000, guid: 69dd687372af122468a95f78e97142ba, type: 3}
+  description: Restores all hearts
+  canEat: 1
+  healAmount: 99
+  value: 20
+  weight: 1
+  worldPrefab: {fileID: 7050676619111002305, guid: 48c2d1977bc37174eb02dd5b2c7c929e, type: 3}

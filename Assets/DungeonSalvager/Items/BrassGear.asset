@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 701316e22ffe9c14c8dbd278b4aee6f1, type: 3}
+  m_Name: BrassGear
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Brass Gear
+  icon: {fileID: 21300000, guid: a89d7314d63fb3946a8c371e6b1a61b6, type: 3}
+  description: Scrap worth 10
+  canEat: 0
+  healAmount: 0
+  value: 10
+  weight: 1
+  worldPrefab: {fileID: 5295652582068706811, guid: fc12368cbdf1cfd459d8bad4895ddb0a, type: 3}
